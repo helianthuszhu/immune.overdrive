@@ -1,0 +1,13 @@
+# ignore all
+*
+# but not these files
+!.gitignore
+!*.pl
+!*.py
+!*.R
+!*.r
+!*.sh
+!*.README
+!*.ipynb
+# ...even if they are in subdirectories
+!*/

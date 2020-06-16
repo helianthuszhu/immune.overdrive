@@ -1,0 +1,1 @@
+python /home/zhuxq/nas/Xiaoqiang/bio_tools/proc10xG/process_10xReads.py --output /home/zhuxq/nas/Xiaoqiang/opti.data/1.CGC.TE.CRC.REdiscoverTE/stats.20200311/scRNA/test -a --quiet -1 /home/zhuxq/nas/Xiaoqiang/SYL_scRNA/FASTQ/CB8E5ANXX/SYL1/SYL1_S1_L008_R1_001.fastq.gz -2 /home/zhuxq/nas/Xiaoqiang/SYL_scRNA/FASTQ/CB8E5ANXX/SYL1/SYL1_S1_L008_R2_001.fastq.gz
