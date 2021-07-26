@@ -1,4 +1,4 @@
-pbmc=readRDS("/home/zhuxq/data/scRNA/scPanCompare/lineage.CRC/GSE144735.KUL3/KUL3data.cohort.count.rds")
+#pbmc=readRDS("/home/zhuxq/data/scRNA/scPanCompare/lineage.CRC/GSE144735.KUL3/KUL3data.cohort.count.rds")
 pbmc=readRDS("/home/zhuxq/data/scRNA/scPanCompare/lineage.CRC/GSE132465.SMC/SMCdata.cohort.count.rds")
 pbmc=subset(pbmc, subset= Tissue!="Normal")
 pbmc[["percent.mt"]] <- PercentageFeatureSet(pbmc, pattern = "^MT-")
