@@ -1,5 +1,5 @@
 # TE analysis in CRC
-##### This is the main codes for analysis TE signature in CRC
+####### This is the main codes for analysis TE signature in CRC
 ### 'work.flow_get_candidate_TEs.R' contains main scripts for candidate TEs.
 ### 'clin.data.CRC.selected.R' is main script for CRC sample selection.
 ### Folder under '2.survival.TE.screen' contains the analysis of survival-associated TEs.
